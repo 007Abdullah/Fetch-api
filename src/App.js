@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import { Suspense } from './Suspense';
 import './App.css';
 
 function App() {
@@ -18,7 +17,6 @@ function App() {
 
   return (
     <React.Fragment>
-      <Suspense />
       <hr />
       <h1>Simple Repos Render</h1>
       <ul>
