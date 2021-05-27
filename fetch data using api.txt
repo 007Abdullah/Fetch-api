@@ -1,0 +1,14 @@
+useEffect(()=>{
+
+},[])
+
+ya api call karni ka method han jo ek adat callback function leta han or ek array leta han
+
+jo be apka asynchronous kaam hoga wo ap useEffect ma karay gayn
+
+
+
+"suspense"
+
+apko kisi be api kae response ma koe loading show karni ho  ya user lagay kae data a raha han waiting ma han is kae liya hum 
+suspense use karty han
